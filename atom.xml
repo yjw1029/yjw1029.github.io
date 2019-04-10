@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yjw1029.github.io/"/>
-  <updated>2019-04-10T10:19:40.816Z</updated>
+  <updated>2019-04-10T11:05:06.517Z</updated>
   <id>http://yjw1029.github.io/</id>
   
   <author>
@@ -18,16 +18,22 @@
   
   <entry>
     <title>angr用法</title>
-    <link href="http://yjw1029.github.io/ctf-tools/Python%20angr%E7%94%A8%E6%B3%95.html"/>
-    <id>http://yjw1029.github.io/ctf-tools/Python angr用法.html</id>
+    <link href="http://yjw1029.github.io/ctf-tools/angr/Python%20angr%E7%94%A8%E6%B3%95.html"/>
+    <id>http://yjw1029.github.io/ctf-tools/angr/Python angr用法.html</id>
     <published>2019-04-10T10:17:20.000Z</published>
-    <updated>2019-04-10T10:19:40.816Z</updated>
+    <updated>2019-04-10T11:05:06.517Z</updated>
+    
+    <content type="html"><![CDATA[<p>angr的文档好像大多是英文的。我想要汇总为数不多的中文文档，并归纳英文教程和一些有用的api方便自己以后的查询和复习。如果有机会将建一个仓库存储中文angr文档。目前可以在categories-angr下阅读已归纳文档</p><a id="more"></a><h2 id="Install"><a href="#Install" class="headerlink" title="Install"></a>Install</h2>]]></content>
     
     <summary type="html">
+    
+      &lt;p&gt;angr的文档好像大多是英文的。我想要汇总为数不多的中文文档，并归纳英文教程和一些有用的api方便自己以后的查询和复习。如果有机会将建一个仓库存储中文angr文档。目前可以在categories-angr下阅读已归纳文档&lt;/p&gt;
     
     </summary>
     
       <category term="ctf-tools" scheme="http://yjw1029.github.io/categories/ctf-tools/"/>
+    
+      <category term="angr" scheme="http://yjw1029.github.io/categories/ctf-tools/angr/"/>
     
     
       <category term="Python" scheme="http://yjw1029.github.io/tags/Python/"/>
