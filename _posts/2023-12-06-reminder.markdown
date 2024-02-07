@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Self-Reminders: Defending ChatGPT against Jailbreak Attack via Self-Reminders."
+date:   2023-08-28 22:21:59 +00:00
+image: /images/3dgaussian.jpg
+categories: research
+author: "Jingwei Yi"
+authors: "<strong>Jingwei Yi*</string>, Yueqi Xie*, Bin Zhu, Keegan Hines, Emre Kiciman, Guangzhong Sun, Xing Xie, Fangzhao Wu"
+venue: "Nature Machine Intelligence"
+paper: https://www.nature.com/articles/s42256-023-00765-8
+code: https://github.com/yjw1029/Self-Reminder
+---
+We propose to defend against Jailbreak attack via Self-reminder prompt.
