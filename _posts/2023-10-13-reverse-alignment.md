@@ -9,4 +9,4 @@ authors: "<strong>Jingwei Yi*</strong>, Rui Ye*, Qisi Chen, Bin Zhu, Siheng Chen
 venue: "ACL 2024 Findings"
 paper: https://openreview.net/pdf?id=NIouO0C0ex
 ---
-We systematically evaluate the robustness of LLMs to indirect prompt injection attacks and propose several defense techniques to mitigate the risks.
+We reveal the vulnerabilities of large language models (LLMs) to reverse alignment attacks and introduce reverse supervised fine-tuning (RSFT) and reverse preference optimization (RPO) as efficient attack methods. Our research underscores the limitations of current value alignment methods and emphasizes the need for robust solutions to counteract malicious fine-tuning.
